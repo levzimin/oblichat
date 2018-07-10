@@ -1,0 +1,7 @@
+{
+    "serverPort" : 3000,
+    "redisHost" : "localhost",
+    "redisPort" : "6379",
+    "redisChatChannel" : "chat",
+    "socketioMessageEventName" : "chat message"
+}
